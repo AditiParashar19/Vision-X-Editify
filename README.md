@@ -8,7 +8,6 @@ Vision X Editify is an image processing and editing application that leverages C
 
 -  AI-based image processing
 -  Image editing (Crop, Resize,Filters)
--  Object detection & tracking (OpenCV / MediaPipe)
 -  Real-time preview
 -  User-friendly interface (Streamlit-based)
 -  Fast and efficient processing
@@ -21,7 +20,7 @@ Vision X Editify is an image processing and editing application that leverages C
 - **Backend:** Python
 - **Libraries Used:**
   - OpenCV
-  - MediaPipe
+  - PIL
   - NumPy
   - Pandas
   - Matplotlib
